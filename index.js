@@ -26,3 +26,5 @@ function appendKitten(name){
   var newKitten = [...kittens, "Broom"];
   return newKitten;
 }
+
+function prependKitten(ame)
