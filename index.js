@@ -27,4 +27,6 @@ function appendKitten(name){
   return newKitten;
 }
 
-function prependKitten(ame)
+function prependKitten(name){
+  var newKitten = []
+}
